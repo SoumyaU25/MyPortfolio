@@ -1,0 +1,61 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/html.png"
+  },
+  
+  {
+    "title": "HTML5",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "ReactJS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/html.png"
+  },
+ 
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/html.png"
+  }
+
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Introworld",
+    "imageSrc": "projects/Introworld.jpeg",
+    "description": "This is a public user space where users can post and interact with each other.",
+    "skills": ["Mern Stack","REST API"],
+    "demo": "https://introworld.vercel.app/",
+    "source": "https://github.com/SoumyaU25/Introworld/"
+  },
+  {
+    "title": "MyNotes",
+    "imageSrc": "projects/Note.jpeg",
+    "description": "This is a Note app where you can note anything you want.",
+    "skills": ["ReactJS", "LocaleStorage"],
+    "demo": "https://my-notes-woad.vercel.app/",
+    "source": "https://github.com/SoumyaU25/MyNotes/"
+  },
+  {
+    "title": "FairShare",
+    "imageSrc": "projects/Fairshare.jpeg",
+    "description": "This is a bill splitting app where you can split your bills with your friends.",
+    "skills": ["ReactJS", "NodeJS"],
+    "demo": "https://fair-share-k9e5.vercel.app/",
+    "source": "https://github.com/SoumyaU25/FairShare/"
+  }
+]

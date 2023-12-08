@@ -1,0 +1,19 @@
+[
+  {
+    "role": "SWE Intern",
+    "organisation": "OpenBootcamp",
+    "startDate": "Sep, 2023",
+    "endDate": "Present",
+    "experiences": ["Tech Stack-Mern stack", "Worked with developer tools for debugging", "Worked on testing frameworks like Mocha and Jest"],
+    "imageSrc": "history/openboot.png"
+  },
+  {
+    "role": "Full-stack Dev Intern",
+    "organisation": "NullClass",
+    "startDate": "Sep, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Tech Stack-Mern stack", "Worked on developing some features of public user space"],
+    "imageSrc": "history/images.png"
+  }
+
+]
