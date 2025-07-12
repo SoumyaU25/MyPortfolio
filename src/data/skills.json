@@ -17,7 +17,7 @@
   },
   
   {
-    "title": "HTML5",
+    "title": "HTML",
     "imageSrc": "skills/html.png"
   },
   {
@@ -32,10 +32,7 @@
     "title": "ReactJS",
     "imageSrc": "skills/react.png"
   },
-  {
-    "title": "Redux",
-    "imageSrc": "skills/react.png"
-  },
+  
   {
     "title": "Tailwind CSS",
     "imageSrc": "skills/html.png"
@@ -56,6 +53,11 @@
   {
     "title": "MySql",
     "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Supabase",
+    "imageSrc": "skills/html.png"
   }
+  
 
 ]
