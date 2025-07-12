@@ -8,12 +8,12 @@
     "source": "https://github.com/SoumyaU25/Introworld/"
   },
   {
-    "title": "MyNotes",
-    "imageSrc": "projects/Note.jpeg",
-    "description": "This is a Note app where you can note anything you want.",
-    "skills": ["ReactJS", "LocaleStorage"],
-    "demo": "https://my-notes-woad.vercel.app/",
-    "source": "https://github.com/SoumyaU25/MyNotes/"
+    "title": "Weatherly",
+    "imageSrc": "projects/weather.png",
+    "description": "This is a Weather app where you can check the weather anytime.",
+    "skills": ["ReactJS", "OpenWeatherMap API"],
+    "demo": "https://weather-app-yzoq-b3s7gn6xa-soumya-upadhyays-projects.vercel.app/",
+    "source": "https://github.com/SoumyaU25/WeatherApp"
   },
   {
     "title": "FairShare",
